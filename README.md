@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 😄 I'm interesting in
   -   information retrieval (My work)
   -   video generation (My interest)
-  -   AI for Math (My dream)
+  -   ⭐ AI for Math (My dream)
 - 📫 How to reach me: jianghe@polyu.edu.hk
