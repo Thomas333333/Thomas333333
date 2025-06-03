@@ -5,10 +5,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a research assisstant in the Hong Kong Polytechic University.
-- 🌱 I’m currently learning information retrieval in different modality
+- 🔭 I plan to work as a research assisstant in The Hong Kong University of Science and Technology （Guangzhou）.
+- 🌱 I’m currently learning LLM in different modality
 - 😄 I'm interesting in
-  -   information retrieval (My work)
-  -   video generation (My interest)
-  -   ⭐ AI for Math (My dream)
-- 📫 How to reach me: jianghe@polyu.edu.hk
+  -   LLM  (My work)
+  -   Why and How LLM  (My interest)
+  -   ⭐ AI for Math (My hope)
+- 📫 How to reach me: riverhill@whu.edu.cn
