@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I plan to work as a research assisstant in The Hong Kong University of Science and Technology （Guangzhou）.
+- 🔭 I am a MPhil in The Hong Kong University of Science and Technology （Guangzhou）.
 - 🌱 I’m currently learning LLM in different modality
 - 😄 I'm interesting in
   -   LLM  (My work)
