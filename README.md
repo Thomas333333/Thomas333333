@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I am an MPhil in The Hong Kong University of Science and Technology (Guangzhou).
 - 🌱 I’m currently learning MLLM.
 - 😄 I'm interesting in
-  -   MLLM application(My Work)     
+  -   MLLM application，especially in the speech modality(My Work)     
   -   Why and How MLLM  (My interest)
-  -   ⭐ AI for Math Reasoing (My hope)
+  -   ⭐ AI for Math Reasoning (My hope)
 - 📫 How to reach me: riverhill@whu.edu.cn
